@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
 qqqqqqqqqqqqq
-=======
 qqqqqqqqqqqqqqq
 >>>>>>> Stashed changes
 2222222222323232
