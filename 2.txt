@@ -1,7 +1,11 @@
 dfsf
 sdfsdf
 333333333333
+<<<<<<< HEAD
 8888888888888
+=======
+
+>>>>>>> parent of 9a9133c... commit merge with confict 2
 444444444444
 555555555555
 
