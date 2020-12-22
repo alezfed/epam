@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 qqqqqqqqqqqqq
 qqqqqqqqqqqqqqq
 >>>>>>> Stashed changes
 2222222222323232
+=======
+fgdf dgdfgdf
+
+>>>>>>> 84615c0... commit merge with confict
 dfsdf
 dsfsdfsdfdsf sdf dsf dsfs
 dgd dgfdg df df gdfgdf
